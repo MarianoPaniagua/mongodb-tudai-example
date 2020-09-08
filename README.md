@@ -13,3 +13,7 @@ Para poder hacer andar este ejemplo en local se necesitaran algunas cosas:
 7--> Instalar Composer. Es un manejador de paquetes de PHP que nos servirá para instalar las librerías de MongoDB que usará PHP. https://getcomposer.org/download/
 
 8--> Ejecutar el siguiente comando: "composer require mongodb/mongodb"
+
+Hay comentarios en el código en las partes donde hay que completar con variables propias de su configuración, como por ejemplo la url de la base de datos.
+
+Cualquier consulta marianogpaniagua@gmail.com

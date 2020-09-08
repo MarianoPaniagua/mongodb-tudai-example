@@ -7,7 +7,8 @@
      "brand":""}
 
   para ser ejecutadas en una base "tudai_dev", en una colección "products".
-  Reemplazar por el que vayan a usar para el ejemplo.
+
+  Pueden modificar todo esto si quieren.
 */
 
 function getAllFromDB(){
